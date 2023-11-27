@@ -1,6 +1,6 @@
 # Business Management App
 
-Customized for **Pole Star Enterprises**, that is my fathers' company. This is a simple app that helps him manage his business. It's a simple CRUD app that allows him to manage his sites, material, and payments. It also has a simple dashboard that shows all relevant details.
+Customized for **Pole Star Enterprises**. This is a simple app that helps Pole Star Enterprise manage business. It's a simple CRUD app that allows PSE to manage sites, material, and payments. It also has a simple dashboard that shows all relevant details.
 
 ## Tech Stack
 
